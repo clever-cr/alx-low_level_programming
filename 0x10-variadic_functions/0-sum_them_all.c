@@ -21,4 +21,3 @@ va_end(list);
 
 return (sum);
 }
-
